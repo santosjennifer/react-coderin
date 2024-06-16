@@ -1,3 +1,5 @@
+![Last Commit](https://img.shields.io/github/last-commit/santosjennifer/react-coderin)
+
 ## Coder In é um blog para você compartilhar fotos e imagens com seus amigos
 
 ### Tecnologia:
