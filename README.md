@@ -1,4 +1,4 @@
-## Coder In é um blog para você compartilhar fotos e imagem com seus amigos
+## Coder In é um blog para você compartilhar fotos e imagens com seus amigos
 
 ### Tecnologia:
 * React
